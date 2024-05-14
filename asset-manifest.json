@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rockgame/static/css/main.096a210b.css",
+    "main.js": "/rockgame/static/js/main.c1ce258c.js",
+    "static/js/453.a5a72b74.chunk.js": "/rockgame/static/js/453.a5a72b74.chunk.js",
+    "index.html": "/rockgame/index.html",
+    "main.096a210b.css.map": "/rockgame/static/css/main.096a210b.css.map",
+    "main.c1ce258c.js.map": "/rockgame/static/js/main.c1ce258c.js.map",
+    "453.a5a72b74.chunk.js.map": "/rockgame/static/js/453.a5a72b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.096a210b.css",
+    "static/js/main.c1ce258c.js"
+  ]
+}
